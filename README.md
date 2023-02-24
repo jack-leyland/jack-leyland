@@ -1,7 +1,5 @@
 # Hi, I’m Jack! 👋  
-### I'm a software engineer and recent graduate of Imperial College London with a Master's in Computing.
-
-💻 I have experience across several languages and frameworks, with a particular focus on JavaScript/TypeScript, Python and web technologies like React, NodeJS, Express and Tailwind. 
+### I'm a software engineer, current working for Cboe Global Markets.
 
 📌 Checkout my pinned projects below to see some of my recent work.
 
